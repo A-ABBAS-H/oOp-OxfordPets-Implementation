@@ -1,0 +1,7 @@
+torch
+torchvision
+clip @ git+https://github.com/openai/CLIP.git
+dassl @ git+https://github.com/KaiyangZhou/Dassl.pytorch.git
+gdown
+matplotlib
+numpy
